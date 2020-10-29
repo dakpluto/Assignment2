@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xslt"?>
+<movies>
+    <movie id="tt0088763">
+        <title>Back to the Future</title>
+        <director>Robert Zemeckis</director>
+        <year>1985</year>
+        <genres>
+            <genre1>Adventure</genre1>
+            <genre2>Comedy</genre2>
+            <genre3>Sci-Fi</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0088763/</uri>
+    </movie>
+
+    <movie id="tt0076759">
+        <title>Star Wars: Episode IV - A New Hope</title>
+        <director>George Lucas</director>
+        <year>1977</year>
+        <genres>
+            <genre1>Action</genre1>
+            <genre2>Adventure</genre2>
+            <genre3>Fantasy</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0076759/</uri>
+    </movie>
+
+    <movie id="tt0089218">
+        <title>The Goonies</title>
+        <director>Richard Donner</director>
+        <year>1985</year>
+        <genres>
+            <genre1>Adventure</genre1>
+            <genre2>Comedy</genre2>
+            <genre3>Family</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0089218</uri>
+    </movie>
+
+    <movie id="tt0075860">
+        <title>Close Encounters of the Third Kind</title>
+        <director>Steven Spielberg</director>
+        <year>1977</year>
+        <genres>
+            <genre1>Drama</genre1>
+            <genre2>Sci-Fi</genre2>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0075860/</uri>
+    </movie>
+
+    <movie id="tt0073195">
+        <title>Jaws</title>
+        <director>Steven Spielberg</director>
+        <year>1975</year>
+        <genres>
+            <genre1>Adventure</genre1>
+            <genre2>Thriller</genre2>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0073195</uri>
+    </movie>
+
+    <movie id="tt0107290">
+        <title>Jurassic Park</title>
+        <director>Steven Spielberg</director>
+        <year>1993</year>
+        <genres>
+            <genre1>Action</genre1>
+            <genre2>Adventure</genre2>
+            <genre3>Sci-Fi</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0107290</uri>
+    </movie>
+
+    <movie id="tt0082971">
+        <title>Raiders of the Lost Ark</title>
+        <director>Steven Spielberg</director>
+        <year>1981</year>
+        <genres>
+            <genre1>Action</genre1>
+            <genre2>Adventure</genre2>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0082971</uri>
+    </movie>
+
+    <movie id="tt0049833">
+        <title>The Ten Commandments</title>
+        <director>Cecil B. de Mille</director>
+        <year>1956</year>
+        <genres>
+            <genre1>Adventure</genre1>
+            <genre2>Drama</genre2>
+        </genres>
+    </movie>
+
+    <movie id="tt0082517">
+        <title>History of the World: Part I</title>
+        <director>Mel Brooks</director>
+        <year>1981</year>
+        <genres>
+            <genre1>Comedy</genre1>
+            <genre2>History</genre2>
+            <genre3>Musical</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0082517</uri>
+    </movie>
+
+    <movie id="tt0038650">
+        <title>It's a Wonderful Life</title>
+        <director>Frank Capra</director>
+        <year>1946</year>
+        <genres>
+            <genre1>Drama</genre1>
+            <genre2>Family</genre2>
+            <genre3>Fantasy</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0038650</uri>
+    </movie>
+
+    <movie id="tt0110357">
+        <title>The Lion King</title>
+        <director>Roger Allers, Rob Minkoff</director>
+        <year>1994</year>
+        <genres>
+            <genre1>Animation</genre1>
+            <genre2>Adventure</genre2>
+            <genre3>Drama</genre3>
+        </genres>
+    </movie>
+
+    <movie id="tt1049413">
+        <title>Up</title>
+        <director>Pete Docter, Bob Peterson</director>
+        <year>2009</year>
+        <genres>
+            <genre1>Animation</genre1>
+            <genre2>Adventure</genre2>
+            <genre3>Comedy</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt1049413</uri>
+    </movie>
+
+    <movie id="tt0091993">
+        <title>SpaceCamp</title>
+        <director>Harry Winer</director>
+        <year>1986</year>
+        <genres>
+            <genre1>Adventure</genre1>
+            <genre2>Family</genre2>
+            <genre3>Sci-Fi</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0091993</uri>
+    </movie>
+
+    <movie id="tt0091059">
+        <title>Flight of the Navigator</title>
+        <director>Randal Kleiser</director>
+        <year>1986</year>
+        <genres>
+            <genre1>Adventure</genre1>
+            <genre2>Family</genre2>
+            <genre3>Comedy</genre3>
+        </genres>
+        <uri>https://www.imdb.com/title/tt0091059</uri>
+    </movie>
+
+    <movie id="tt0088847">
+        <title>The Breakfast Club</title>
+        <director>John Hughes</director>
+        <year>1985</year>
+        <genres>
+            <genre1>Comedy</genre1>
+            <genre2>Drama</genre2>
+        </genres>
+    </movie>
+</movies>
